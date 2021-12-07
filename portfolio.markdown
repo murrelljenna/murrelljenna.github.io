@@ -3,6 +3,11 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
+### Up On High
+##### <em>August 2019 - Present</em>
+Strategy game built from a FPS perspective. Built in the Unity engine.
+##### <em>[Github](https://github.com/murrelljenna/first-person-resource-management) | [Itch.io](https://contervo.itch.io/tbd)
+---
 ### Boggs CRM for Community Organizing
 ##### <em>April 2020 - April 2021</em>
 Django/React CRM for community organizing named after activist and philosopher Grace Lee Boggs.
